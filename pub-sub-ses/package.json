@@ -1,0 +1,19 @@
+{
+  "name": "pub-sub-ses",
+  "version": "1.0.0",
+  "description": "pub sub app with ses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pubsub",
+    "ses",
+    "serverless"
+  ],
+  "author": "flavio nobre <flavionobredev@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless": "^3.30.1"
+  }
+}
